@@ -1,7 +1,7 @@
 # Build a Mini-GPT — Teaching Kit
 
 - Notebooks in `notebooks/` (charLM, TinyGPT, fine-tune)
-- Dataset in `dataset/alice.txt`
+- Dataset in `dataset/alice_in_wonderland.txt`
 - Slides in `slides/Build_a_Mini_GPT.pptx` (dark minimalist)
 - MIT License in `LICENSE`
 
